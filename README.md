@@ -1,2 +1,3 @@
-# auto-logic-pro-license
-Sistem lisensi online EA Auto Logic Pro MT5
+STATUS=ON
+VERSION=1.0
+TRIAL_DAYS=2day
